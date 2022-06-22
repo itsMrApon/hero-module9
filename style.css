@@ -141,7 +141,7 @@ color: #AEAEAE;
   .players, .blogs, .courses{
     grid-template-columns: repeat(1 ,1fr);
   }
-  .player, .blog, {
+  .player, .blog{
     flex-direction: column;
   }
   
@@ -157,7 +157,7 @@ color: #AEAEAE;
   .courses{
     grid-template-columns: repeat(1 ,1fr);
   }
-  .player, .blog, {
+  .player, .blog{
     flex-direction: column;
   }
   
